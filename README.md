@@ -41,7 +41,7 @@ Header_19/
 ## 📷 Preview
 
 ### ✅ Final Result  
-<img src="result/header_19_result.jpg" alt="Header 19 My Result" width="500"/>
+<img src="result/header_19_result.png" alt="Header 19 My Result" width="500"/>
 
 ### 🎯 Design Reference  
 <img src="reference/header_19_reference.png" alt="Header 19 Figma Reference" width="500"/>
